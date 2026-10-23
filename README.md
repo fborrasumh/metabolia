@@ -4,6 +4,8 @@ Bioquímica II (1024, Grado en Medicina): problemas con solución calculada, tes
 
 **Usar la app:** https://fborrasumh.github.io/metabolia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23591721.svg)](https://doi.org/10.5281/zenodo.23591721)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -45,7 +47,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, Fernando; Gutiérrez Pérez, Luis Miguel; Villanueva Roig, José Heliodoro; Reig Macià, Juan Antonio (2026). *MetabolIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, Fernando; Gutiérrez Pérez, Luis Miguel; Villanueva Roig, José Heliodoro; Reig Macià, Juan Antonio (2026). *MetabolIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23591721](https://doi.org/10.5281/zenodo.23591721)
 
 ## Licencia
 
